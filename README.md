@@ -36,10 +36,6 @@ The framework consists of several packages, each with a specific purpose:
 3. Ensure you have the necessary dependencies configured.
 4. Build the project following your IDE's instructions.
 
-**Usage:**
-
-Refer to the provided JavaDoc documentation for detailed instructions on using the framework's classes and functionalities.
-
 
 ### Contributing
 

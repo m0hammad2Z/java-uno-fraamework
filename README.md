@@ -37,11 +37,6 @@ The framework consists of several packages, each with a specific purpose:
 4. Build the project following your IDE's instructions.
 
 
-### Contributing
-
-We welcome contributions to this project! Please refer to the CONTRIBUTING.md file for guidelines on how to contribute code, report issues, and request features.
-
-
 ### License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
